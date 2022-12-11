@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Diziler_iki_Array_Sinifi_Methodları/1.0.0": {
+        "runtime": {
+          "Diziler_iki_Array_Sinifi_Methodları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diziler_iki_Array_Sinifi_Methodları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

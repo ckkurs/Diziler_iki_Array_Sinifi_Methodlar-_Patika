@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\bin\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.exe
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\bin\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.deps.json
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\bin\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\bin\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\bin\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.dll
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\bin\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.pdb
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.dll
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\refint\Diziler_iki_Array_Sinifi_Methodları.dll
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.pdb
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\Diziler_iki_Array_Sinifi_Methodları.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Diziler_iki_Array_Sinifi_Methodları\obj\Debug\net5.0\ref\Diziler_iki_Array_Sinifi_Methodları.dll
